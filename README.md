@@ -155,4 +155,5 @@ Aqui você pode anexar imagens mostrando o resultado final do desafio:
 
 ✅ Outputs do Terraform exibindo IP público e DNS
 
-<img width="1100" height="621" alt="image" src="https://github.com/user-attachments/assets/ae54b6c7-0851-4f95-9cae-db41c5ca6e61" />
+<img width="1107" height="624" alt="image" src="https://github.com/user-attachments/assets/b475b816-3505-4d2d-aacc-44a8ed932142" />
+
