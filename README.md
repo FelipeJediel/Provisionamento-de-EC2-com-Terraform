@@ -88,7 +88,7 @@ user_data = file("user_data.sh")
 1. Entre na pasta do desafio:
 
 ```bash
-cd desafio
+cd C:\Users\(nome-do-dispositivo)\desafio
 ```
 
 2. Inicialize o Terraform:
