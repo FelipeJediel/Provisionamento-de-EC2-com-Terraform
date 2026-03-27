@@ -137,6 +137,22 @@ terraform destroy
 
 ---
 
-Se você quiser, eu posso **já montar o README final completo** com Markdown pronto para colar no seu repo, incluindo **links, destaque de código e outputs**, pronto para enviar.
+💻 Resultado Prático
 
-Quer que eu faça isso?
+Aqui você pode anexar imagens mostrando o resultado final do desafio:
+
+✅ Instância EC2 criada e em execução
+
+<img width="1643" height="440" alt="image" src="https://github.com/user-attachments/assets/086c1406-1a99-46e5-a04f-82bb3646ee2d" />
+
+✅ Security Group configurado (SSH e HTTP liberados)
+
+<img width="1634" height="303" alt="image" src="https://github.com/user-attachments/assets/0d988db1-f91e-4b7b-baea-0b1aef2e1c98" />
+
+✅ Webserver Apache funcionando no navegador
+
+<img width="1906" height="596" alt="image" src="https://github.com/user-attachments/assets/52526707-29b8-42ec-b739-1e71bccf012c" />
+
+✅ Outputs do Terraform exibindo IP público e DNS
+
+<img width="1100" height="621" alt="image" src="https://github.com/user-attachments/assets/ae54b6c7-0851-4f95-9cae-db41c5ca6e61" />
