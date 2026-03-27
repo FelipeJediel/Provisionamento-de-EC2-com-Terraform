@@ -130,8 +130,8 @@ terraform destroy
 
 ---
 
-## 🔗 Desafio proposto por Bruno Feliano
-* [Github do Desafio] https://github.com/bfeliano/desafio-devops-01-terraform-ec2-iniciante/tree/main
+## 👨🏻‍🏫 Desafio proposto por Bruno Feliano 🎓
+* [Github do Desafio](https://github.com/bfeliano/desafio-devops-01-terraform-ec2-iniciante.git)
 
 ## 🔗 Referências
 
