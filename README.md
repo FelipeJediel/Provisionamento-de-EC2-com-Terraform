@@ -160,7 +160,10 @@ Aqui você pode anexar imagens mostrando o resultado final do desafio:
 
 <img width="1107" height="624" alt="image" src="https://github.com/user-attachments/assets/b475b816-3505-4d2d-aacc-44a8ed932142" />
 
+---
 
 🚨 Não se esqueça de encerrar a instância ao final do desafio 🚨
+
+<img width="1673" height="332" alt="Screenshot 2026-03-27 031825" src="https://github.com/user-attachments/assets/93eba430-4ef7-4216-9bfd-c3315cb53d0a" />
 
 
