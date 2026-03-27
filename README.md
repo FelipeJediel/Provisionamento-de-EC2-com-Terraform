@@ -143,7 +143,7 @@ Aqui você pode anexar imagens mostrando o resultado final do desafio:
 
 ✅ Instância EC2 criada e em execução
 
-<img width="1643" height="440" alt="image" src="https://github.com/user-attachments/assets/086c1406-1a99-46e5-a04f-82bb3646ee2d" />
+<img width="1909" height="369" alt="image" src="https://github.com/user-attachments/assets/53db726d-3646-4e21-9e62-66373ac22633" />
 
 ✅ Security Group configurado (SSH e HTTP liberados)
 
@@ -151,7 +151,7 @@ Aqui você pode anexar imagens mostrando o resultado final do desafio:
 
 ✅ Webserver Apache funcionando no navegador
 
-<img width="1906" height="596" alt="image" src="https://github.com/user-attachments/assets/52526707-29b8-42ec-b739-1e71bccf012c" />
+<img width="1912" height="433" alt="image" src="https://github.com/user-attachments/assets/0a463595-8dcd-488c-b88c-05b0535b44e2" />
 
 ✅ Outputs do Terraform exibindo IP público e DNS
 
