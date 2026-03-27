@@ -72,7 +72,7 @@ sudo yum update -y
 sudo yum install -y httpd
 sudo systemctl start httpd
 sudo systemctl enable httpd
-echo "Desafio mentoria Bruno Feliano" > /var/www/html/index.html
+echo "Desafio DevOps #1 — Deploy realizado com sucesso!" > /var/www/html/index.html
 ```
 
 > Pode ser referenciado no `main.tf` via:
