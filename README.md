@@ -1,7 +1,3 @@
-Perfeito! Vamos organizar o **README.md** do seu desafio DevOps de forma clara, profissional e técnica, seguindo a estrutura que você mencionou e destacando tudo que alguém que abrir o repo precisa entender. Aqui vai um modelo detalhado que você pode copiar e adaptar:
-
----
-
 # 🧩 Desafio DevOps #01 — Provisionamento de EC2 com Terraform
 
 Este repositório contém a solução do **Desafio DevOps #01**, que consiste em criar uma **instância EC2 com webserver** na AWS utilizando **Terraform**.
