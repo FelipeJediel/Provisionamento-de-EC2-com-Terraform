@@ -130,6 +130,9 @@ terraform destroy
 
 ---
 
+## 🔗 Desafio proposto por Bruno Feliano
+* [Github do Desafio] https://github.com/bfeliano/desafio-devops-01-terraform-ec2-iniciante/tree/main
+
 ## 🔗 Referências
 
 * [Terraform AWS Provider Documentation](https://registry.terraform.io/providers/hashicorp/aws/latest/docs)
